@@ -1,0 +1,16 @@
+/* Body.css */
+
+body {
+    margin: 0; /* Remove default body margin */
+    padding: 0; /* Remove default body padding */
+    height: 100vh; /* Set the height to 100% of the viewport height */
+    background-image: url('../images/background/38d02-16900335673925-1920.avif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgba(255, 255, 255, 0.1)
+  }
+  #landbod {
+    color: aliceblue;
+  }
+  
