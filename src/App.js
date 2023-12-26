@@ -5,7 +5,7 @@ import Body from './pages/body';
 function App() {
   return (
     <Routes>
-      {/* <Route path='/' element={<Header/>}/> */}
+      <Route path='/' element={<Header/>}/>
       <Route path='/' element={<Body/>}/>
     </Routes>
   )
